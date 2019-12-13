@@ -8,3 +8,4 @@ Requirements:
 Credit to:
 - [Matthew Ragan](https://matthewragan.com/teaching-resources/touchdesigner/touchdesigner-general-concept-exploration/)
 - [Wüstenarchitekten](https://github.com/wuestenarchitekten/soundviz)
+- [bileam tschepe](https://www.youtube.com/channel/UCONptu0J1PCrW9YfBtSdqjA)
